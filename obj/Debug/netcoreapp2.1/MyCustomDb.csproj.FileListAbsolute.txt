@@ -1,0 +1,8 @@
+C:\Users\Adam\Desktop\MyCustomDb\MyCustomDb\bin\Debug\netcoreapp2.1\MyCustomDb.deps.json
+C:\Users\Adam\Desktop\MyCustomDb\MyCustomDb\bin\Debug\netcoreapp2.1\MyCustomDb.runtimeconfig.json
+C:\Users\Adam\Desktop\MyCustomDb\MyCustomDb\bin\Debug\netcoreapp2.1\MyCustomDb.runtimeconfig.dev.json
+C:\Users\Adam\Desktop\MyCustomDb\MyCustomDb\bin\Debug\netcoreapp2.1\MyCustomDb.dll
+C:\Users\Adam\Desktop\MyCustomDb\MyCustomDb\obj\Debug\netcoreapp2.1\MyCustomDb.csprojAssemblyReference.cache
+C:\Users\Adam\Desktop\MyCustomDb\MyCustomDb\obj\Debug\netcoreapp2.1\MyCustomDb.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\MyCustomDb\MyCustomDb\obj\Debug\netcoreapp2.1\MyCustomDb.AssemblyInfoInputs.cache
+C:\Users\Adam\Desktop\MyCustomDb\MyCustomDb\obj\Debug\netcoreapp2.1\MyCustomDb.AssemblyInfo.cs
